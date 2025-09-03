@@ -13,24 +13,34 @@
 </div>
 
 <!-- 🛠️ Tech Stacks -->
-<div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #f6d6e4; color: #333333;"> 🛠️ Tech Stacks </h2> <br> 
-  <div style="text-align: left;"> 
-    <img src="https://img.shields.io/badge/C-FADADD?style=flat-square&logo=C&logoColor=333333">
-    <img src="https://img.shields.io/badge/Express-F9C6C9?style=flat-square&logo=Express&logoColor=333333">
-    <img src="https://img.shields.io/badge/Git-F6D6E4?style=flat-square&logo=Git&logoColor=333333">
-    <img src="https://img.shields.io/badge/Github-EFD9F2?style=flat-square&logo=Github&logoColor=333333">
-    <img src="https://img.shields.io/badge/HTML5-FADADD?style=flat-square&logo=HTML5&logoColor=333333">
-    <br/>
-    <img src="https://img.shields.io/badge/Javascript-F9C6C9?style=flat-square&logo=Javascript&logoColor=333333">
-    <img src="https://img.shields.io/badge/MySQL-F6D6E4?style=flat-square&logo=MySQL&logoColor=333333">
-    <img src="https://img.shields.io/badge/Linux-EFD9F2?style=flat-square&logo=Linux&logoColor=333333">
-    <img src="https://img.shields.io/badge/Next.js-FADADD?style=flat-square&logo=Next.js&logoColor=333333">
-    <img src="https://img.shields.io/badge/Node.js-F9C6C9?style=flat-square&logo=Node.js&logoColor=333333">
-    <br/>
-    <img src="https://img.shields.io/badge/Python-F6D6E4?style=flat-square&logo=Python&logoColor=333333">
-  </div>
-</div>
+<h2 style="border-bottom: 1px solid #EFD9F2; color: #333333;"> 🛠️ Tech Stacks </h2>
+
+<!-- Web Dev / Scripts -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-F9C6C9?style=flat-square&logo=Node.js&logoColor=333333">
+  <img src="https://img.shields.io/badge/HTML5-F9C6C9?style=flat-square&logo=HTML5&logoColor=333333">
+  <img src="https://img.shields.io/badge/JavaScript-F9C6C9?style=flat-square&logo=JavaScript&logoColor=333333">
+  <img src="https://img.shields.io/badge/Python-F9C6C9?style=flat-square&logo=Python&logoColor=333333">
+  <img src="https://img.shields.io/badge/MySQL-F9C6C9?style=flat-square&logo=MySQL&logoColor=333333">
+</p>
+
+<!-- Language & OS -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-EFD9F2?style=flat-square&logo=Java&logoColor=333333">
+  <img src="https://img.shields.io/badge/C-EFD9F2?style=flat-square&logo=C&logoColor=333333">
+  <img src="https://img.shields.io/badge/Linux-EFD9F2?style=flat-square&logo=Linux&logoColor=333333">
+  <img src="https://img.shields.io/badge/Oracle-EFD9F2?style=flat-square&logo=Oracle&logoColor=333333">
+</p>
+
+<!-- Tools & Frameworks -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-FFF2B2?style=flat-square&logo=Git&logoColor=333333">
+  <img src="https://img.shields.io/badge/GitHub-FFF2B2?style=flat-square&logo=GitHub&logoColor=333333">
+  <img src="https://img.shields.io/badge/Express-FFF2B2?style=flat-square&logo=Express&logoColor=333333">
+  <img src="https://img.shields.io/badge/Next.js-FFF2B2?style=flat-square&logo=Next.js&logoColor=333333">
+</p>
+
+
 
 <!-- 📬 Contact -->
 <div style="text-align: left;">
@@ -39,16 +49,12 @@
     <a href="https://www.instagram.com/whyj_isisis/"> 
       <img src="https://img.shields.io/badge/Instagram-F9C6C9?style=flat-square&logo=Instagram&logoColor=white"> 
     </a>
+    <br>
     <a href="#"> 
       <img src="https://img.shields.io/badge/Notion-F6D6E4?style=flat-square&logo=Notion&logoColor=white"> 
     </a>
   </div>  
   <br> 
-  <div style="text-align: left;"> 
-    <a href="https://hits.seeyoufarm.com"> 
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeajin458%2F&count_bg=%23F6D6E4&title_bg=%23F9C6C9&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/> 
-    </a>
-  </div> 
 </div>
 
 <h2 style="border-bottom: 1px solid #f6d6e4; color: #333333;"> 📊 Stats </h2> 
