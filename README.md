@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/C-EFD9F2?style=flat-square&logo=C&logoColor=333333">
   <img src="https://img.shields.io/badge/Linux-EFD9F2?style=flat-square&logo=Linux&logoColor=333333">
   <img src="https://img.shields.io/badge/Oracle-EFD9F2?style=flat-square&logo=Oracle&logoColor=333333">
-  <img src="https://img.shields.io/badge/MySQL-F9C6C9?style=flat-square&logo=MySQL&logoColor=333333">
+  <img src="https://img.shields.io/badge/MySQL-EFD9F2?style=flat-square&logo=MySQL&logoColor=333333">
 </p>
 
 <!-- Tools & Frameworks -->
