@@ -32,36 +32,9 @@
   <img src="https://img.shields.io/badge/MySQL-EFD9F2?style=flat-square&logo=MySQL&logoColor=333333">
 </p>
 
-<!-- Tools & Frameworks -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-FFF2B2?style=flat-square&logo=Git&logoColor=333333">
-  <img src="https://img.shields.io/badge/GitHub-FFF2B2?style=flat-square&logo=GitHub&logoColor=333333">
-  <img src="https://img.shields.io/badge/Express-FFF2B2?style=flat-square&logo=Express&logoColor=333333">
-  <img src="https://img.shields.io/badge/Next.js-FFF2B2?style=flat-square&logo=Next.js&logoColor=333333">
-</p>
 
 
 
-<!-- 📬 Contact -->
-<div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #f6d6e4; color: #333333;"> 📬 Contact </h2> <br> 
-  <div style="text-align: left;"> 
-    <a href="https://www.instagram.com/whyj_isisis/"> 
-      <img src="https://img.shields.io/badge/Instagram-F9C6C9?style=flat-square&logo=Instagram&logoColor=white"> 
-    </a>
-    <br>
-    <a href="#"> 
-      <img src="https://img.shields.io/badge/Notion-F6D6E4?style=flat-square&logo=Notion&logoColor=white"> 
-    </a>
-  </div>  
-  <br> 
-</div>
-
-<h2 style="border-bottom: 1px solid #f6d6e4; color: #333333;"> 📊 Stats </h2> 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeajin458&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=ff8fa3" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeajin458&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000" height="180px"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeajin458&background=ffffff&ring=ff8fa3&fire=ff8fa3&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=666666&hide_border=true" height="180px"/>
