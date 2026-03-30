@@ -35,10 +35,3 @@
 
 
 
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeajin458&background=ffffff&ring=ff8fa3&fire=ff8fa3&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=666666&hide_border=true" height="180px"/>
-</div>
-
-
-
